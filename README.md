@@ -4,7 +4,7 @@ This project is a Timer Clock coded in JavaScript (Vanilla JS), HTML and CSS. Th
 
 ## Project Link
 
-**coming soon**
+**https://timer-clock-built-with-vanilla-js.netlify.app/**
 
 ## Screenshot 1: Timer Clock Not Started Yet or Reseted
 
