@@ -1,6 +1,6 @@
 # Timer Clock
 
-This project is a Timer Clock coded in JavaScript (Vanilla JS), HTML and CSS. The user can start, pause and reset the timer.
+This project is a Timer Clock coded in JavaScript (Vanilla JS), HTML and CSS, the user can start, pause and reset the timer.
 
 ## Project Link
 
