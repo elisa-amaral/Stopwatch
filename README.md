@@ -1,6 +1,10 @@
 # Stopwatch
 
+<<<<<<< HEAD
 This project is a Stopwatch coded in JavaScript (Vanilla JS), HTML and CSS, responsive design was used in the development. The user can start, pause and reset the Stopwatch. 
+=======
+This project is a Timer Clock coded in JavaScript (Vanilla JS), HTML and CSS, the user can start, pause and reset the timer.
+>>>>>>> 6242640224cb3287f359f13656c76a0fa196388a
 
 ## Project Link
 
