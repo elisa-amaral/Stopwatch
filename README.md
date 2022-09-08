@@ -8,15 +8,15 @@ This project is a Stopwatch coded in JavaScript (Vanilla JS), HTML and CSS, resp
 
 ## Screenshot 1: Stopwatch Not Started Yet or Reseted
 
-![Screenshot](assets/img/Screenshot_1.jpg)
+![Screenshot](assets/img/Screenshots/Screenshot_1.jpg)
 
 ## Screenshot 2: Stopwatch Started
 
-![Screenshot](assets/img/Screenshot_2.jpg)
+![Screenshot](assets/img/Screenshots/Screenshot_2.jpg)
 
 ## Screenshot 3: Stopwatch Paused
 
-![Screenshot](assets/img/Screenshot_3.jpg)
+![Screenshot](assets/img/Screenshots/Screenshot_3.jpg)
 
 
 ## Technology Stack
