@@ -53,6 +53,6 @@ function stopwatch()
         }
 
     });
-}
+} 
 
 stopwatch()
