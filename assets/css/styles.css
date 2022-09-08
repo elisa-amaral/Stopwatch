@@ -43,7 +43,6 @@ h1
   max-width: 84rem;
   max-height: 40rem;
   margin: 5rem auto;
-  /* margin-bottom: 3rem; */
   background: #fff;
   padding: 4rem;
   padding-top: 1rem;
@@ -55,7 +54,7 @@ h1
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-left: -1.5rem ;
+  margin-left: -1.8rem ;
 }
 
 #header img
@@ -66,7 +65,7 @@ h1
   margin: 0;
 }
 
-.timerClock
+.stopwatch
 {
   margin-top: 3rem;
   margin-bottom: 5rem;
@@ -209,7 +208,7 @@ button.reset:hover
     margin: 0;
   }
 
-  .timerClock
+  .stopwatch
   {
     font-size: 6rem;
   }
