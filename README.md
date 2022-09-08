@@ -1,6 +1,6 @@
 # Stopwatch
 
-This project is a Stopwatch coded in JavaScript (Vanilla JS), HTML and CSS, responsive design was used in the development. The user can start, pause and reset the Stopwatch. 
+This project is a Stopwatch coded in responsive design. The user can start, pause and reset the Stopwatch. 
 
 ## Project Link
 
@@ -21,6 +21,8 @@ This project is a Stopwatch coded in JavaScript (Vanilla JS), HTML and CSS, resp
 
 ## Technology Stack
 
+The project was built with:
+
++ JavaScript
 + HTML
 + CSS
-+ JavaScript (Vanilla JS)
