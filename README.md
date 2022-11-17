@@ -2,7 +2,7 @@
 
 This project is a Stopwatch coded in responsive design. The user can start, pause and reset the Stopwatch. 
 
-## Project Link
+## Project Website
 
 **https://stopwatch-built-with-javascript.netlify.app/**
 
